@@ -1,6 +1,6 @@
 # Medical Data Visualizer
 
-A data analysis and visualization project built with Python as part of the [freeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) certification.
+A data analysis and visualization project built with Python
 
 ## Project Overview
 
@@ -82,6 +82,3 @@ This will:
 - **Seaborn** — statistical data visualization
 - **NumPy** — numerical operations
 
-## Certificate
-
-This project is part of the **Data Analysis with Python** certification on [freeCodeCamp](https://www.freecodecamp.org/).
